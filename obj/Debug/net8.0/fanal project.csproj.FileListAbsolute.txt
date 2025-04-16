@@ -1,0 +1,42 @@
+E:\study\C#\ConnectFour_Project\fanal project\bin\Debug\net8.0\fanal project.exe
+E:\study\C#\ConnectFour_Project\fanal project\bin\Debug\net8.0\fanal project.deps.json
+E:\study\C#\ConnectFour_Project\fanal project\bin\Debug\net8.0\fanal project.runtimeconfig.json
+E:\study\C#\ConnectFour_Project\fanal project\bin\Debug\net8.0\fanal project.dll
+E:\study\C#\ConnectFour_Project\fanal project\bin\Debug\net8.0\fanal project.pdb
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfoInputs.cache
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfo.cs
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.csproj.CoreCompileInputs.cache
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.dll
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\refint\fanal project.dll
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.pdb
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\fanal project.genruntimeconfig.cache
+E:\study\C#\ConnectFour_Project\fanal project\obj\Debug\net8.0\ref\fanal project.dll
+E:\study\C#\fanal project\bin\Debug\net8.0\fanal project.exe
+E:\study\C#\fanal project\bin\Debug\net8.0\fanal project.deps.json
+E:\study\C#\fanal project\bin\Debug\net8.0\fanal project.runtimeconfig.json
+E:\study\C#\fanal project\bin\Debug\net8.0\fanal project.dll
+E:\study\C#\fanal project\bin\Debug\net8.0\fanal project.pdb
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfoInputs.cache
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfo.cs
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.csproj.CoreCompileInputs.cache
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.dll
+E:\study\C#\fanal project\obj\Debug\net8.0\refint\fanal project.dll
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.pdb
+E:\study\C#\fanal project\obj\Debug\net8.0\fanal project.genruntimeconfig.cache
+E:\study\C#\fanal project\obj\Debug\net8.0\ref\fanal project.dll
+E:\study\2nd Semester\C#\final local\fanal project\bin\Debug\net8.0\fanal project.exe
+E:\study\2nd Semester\C#\final local\fanal project\bin\Debug\net8.0\fanal project.deps.json
+E:\study\2nd Semester\C#\final local\fanal project\bin\Debug\net8.0\fanal project.runtimeconfig.json
+E:\study\2nd Semester\C#\final local\fanal project\bin\Debug\net8.0\fanal project.dll
+E:\study\2nd Semester\C#\final local\fanal project\bin\Debug\net8.0\fanal project.pdb
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfoInputs.cache
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.AssemblyInfo.cs
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.csproj.CoreCompileInputs.cache
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.dll
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\refint\fanal project.dll
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.pdb
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\fanal project.genruntimeconfig.cache
+E:\study\2nd Semester\C#\final local\fanal project\obj\Debug\net8.0\ref\fanal project.dll
